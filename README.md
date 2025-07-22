@@ -30,6 +30,6 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/sumit-ruhela-412469138" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sumit" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sumit-ruhela-412469138" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sumit" height="30" width="40" /></a>
   <a href="mailto:sumitruhelatech@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
