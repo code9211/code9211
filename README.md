@@ -24,7 +24,7 @@
 ---
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=SumitRuhela)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=code9211)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
